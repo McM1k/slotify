@@ -20,3 +20,4 @@ And then, use `./correc.sh [link to slot page]`
 Enkoy
 
 Oh, btw it uses `notify-send` , which is available for ubuntu, I'm not sure if it will work on other distribs
+also you'll need xmllint that is available through apt install libxml2-utils if I'm not mistaken
