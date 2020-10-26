@@ -1,4 +1,4 @@
-# slotify
+# slotify -  A failed attempt at getting evaluations slots at 42 during covid
 notifies you when an evaluation slot appears on the 42 intra
 
 Before using this script, you'll need to generate your cookie file.
